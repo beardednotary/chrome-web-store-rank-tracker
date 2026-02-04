@@ -16,3 +16,9 @@ I used this script to track my extension **WordBridge** jumping from unranked to
    ```bash
    pip install playwright
    python -m playwright install chromium
+
+2. Configure your extensions: Edit the MY_EXTENSIONS dictionary in rank_tracker.py
+   
+3. Run the script:
+   ```bash
+   python rank_tracker.py
