@@ -22,3 +22,10 @@ I used this script to track my extension **WordBridge** jumping from unranked to
 3. Run the script:
    ```bash
    python rank_tracker.py
+
+## 📈 Why this exists?
+Based on the "Tiered Bucket" theory of CWS SEO:
+
+SEO (Title/Description) = Your Tier Selector.
+
+User Signals = Your In-Tier Sorter.
